@@ -1,0 +1,152 @@
+"[Others]"
+https://lwn.net/headlines/rss                                           "~lwn headlines"
+https://www.eff.org/rss/updates.xml                                     "~EFF"
+https://www.theregister.com/headlines.atom                              "~The Register"
+https://www.technologyreview.com/feed                                   "~MIT Technology Review"
+# https://www.archlinux.org/feeds/news/                                   "~Archlinux News"
+http://rss.slashdot.org/slashdot/eqWf                                   "~SlashDot"
+https://www.linuxfoundation.org/blog/rss.xml                            "~Linux Foundation"
+https://portswigger.net/research/rss                                    "~portswigger research"
+https://www.cloudvulndb.org/rss/feed.xml						        "~cloudvulndb.org"
+https://www.bleepingcomputer.com/feed/                                  "~BleepingComputer"
+
+https://nixintel.info/feed/                                             "~nixintel"
+https://dfirdiva.com/feed                                               "~dfirdiva"
+https://jvns.ca/atom.xml                                                "~julia evans blog"
+https://www.guitmz.com/index.xml                                        "~guitmz's blog"
+https://xcellerator.github.io/index.xml                                 "~TheXcellerator"
+https://s3n4t0roffsec13.blogspot.com/feeds/posts/default                "~s3n4t0roffsec13"
+https://www.n00py.io/feed										        "~n00py blog"
+https://www.travismathison.com/feed.xml							        "~travis mathison"
+https://yurichev.com/blog/rss.xml								        "~Dennis Yurichev's blog"
+https://0x00sec.org/latest.rss									        "~0x00sec (latest)"
+https://cybergeeks.tech/feed/									        "~cyber geeks"
+http://jbremer.org/feed/										        "~Jurriaan Bremer @skier_t"
+https://blog.coffinsec.com/feed.xml								        "~coffin sec"
+https://raesene.github.io/feed.xml								        "~Raesene's Ramblings"
+https://blog.regehr.org/feed									        "~Embedded in Academia - John Regehr"
+https://cocomelonc.github.io/feed.xml							        "~cocomelonc"
+https://blog.xpnsec.com/rss.xml									        "~xpnsec blog"
+https://rastamouse.me/feed										        "~rasta mouse (Brain Farts)"
+https://feeds.feedburner.com/Airs-IanLanceTaylor 						"~Ian Lance Taylor blog"
+
+
+https://adepts.of0x.cc/feed.xml                                         "~adepts.of0x.cc"
+https://itm4n.github.io/feed.xml                                        "~itm4n's blog"
+https://www.blackarrow.net/feed/                                        "~blackarrow"
+https://rosenzweig.io/blog/gpu-feed.xml                                 "~rosenzweig"
+https://dirkjanm.io/feed.xml                                            "~dirkjanm"
+https://blog.harmj0y.net/feed                                           "~harmj0y"
+https://blog.ret2.io/feed.xml                                           "~ret2"
+https://doar-e.github.io/feeds/rss.xml                                  "~doar-e"
+https://secret.club/feed.xml                                            "~secret.club"
+https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss      "~googleprojectzero"
+https://srcincite.io/feed.xml                                           "~srcincite"
+https://phoenhex.re/feed.xml                                            "~phoenhex"
+https://www.msreverseengineering.com/blog?format=rss                    "~msreverseengineering"
+https://reverse.put.as/index.xml                                        "~reverse.put.as"
+https://blog.vwzq.net/posts/index.xml                                   "~Servator"
+https://www.agarri.fr/blog/rss.xml                                      "~agarri"
+https://pbx.sh/feed.xml                                                 "~pbx.sh/"
+https://www.tiraniddo.dev/feeds/posts/default?alt=rss                   "~tiraniddo"
+https://shells.systems/feed/                                            "~shells.systems"
+https://posts.specterops.io/feed                                        "~specterops"
+https://windows-internals.com/feed/                                     "~windows-internals"
+https://voidsec.com/feed/                                               "~voidsec"
+https://talawah.io/feed.rss                                             "~talawah"
+https://thume.ca/atom.xml                                               "~thume.ca"
+https://www.mdsec.co.uk/feed/                                           "~mdsec"
+https://connormcgarr.github.io/feed.xml                                 "~connormcgarr"
+https://mrt4ntr4.github.io/feed.xml                                     "~mrt4ntr4"
+https://tenthousandmeters.com/feeds/all.atom.xml                        "~tenthousandmeters"
+https://a13xp0p0v.github.io/feed.xml                                    "~a13xp0p0v"
+https://dolosgroup.io/blog?format=rss                                   "~dolosgroup"
+https://www.pentestpartners.com/feed/                                   "~pentestpartners"
+https://codeinsecurity.wordpress.com/feed/                              "~codeinsecurity"
+https://pentestlab.blog/feed/                                           "~pentestlab"
+https://ethicalchaos.dev/feed/                                          "~Ethical Chaos"
+https://exploit.ph/feeds/rss.xml                                        "~exploit.ph"
+https://dustri.org/b/rss.xml                                            "~dustri.org"
+https://blog.trailofbits.com/feed/                                      "~trailofbits"
+https://blog.willemmelching.nl/feed.xml                                 "~Willem Melching"
+https://0x434b.dev/rss/                                                 "~Low-level adventures"
+https://www.zerodayinitiative.com/blog/?format=rss                      "~zero day initiative"
+https://pwning.systems/index.xml                                        "~pwning.systems"
+https://www.trustedsec.com/feed/                                        "~trustedsec"
+https://cyber.wtf/feed/                                                 "~cyber.wtf"
+https://blog.svenpeter.dev/index.xml                                    "~svenpeter"
+https://byt3bl33d3r.substack.com/feed                                   "~byt3bl33d3r"
+https://research.swtch.com/feed.atom                                    "~research!rsc"
+https://randomascii.wordpress.com/feed/                                 "~tech blog of Bruce Dawson"
+https://antonioparata.blogspot.com/feeds/posts/default					"~Secure coding and more"
+https://n1ght-w0lf.github.io/feed.xml									"~nightw0lf's blog"
+
+
+
+https://0x434b.dev/rss/
+https://lkmidas.github.io/index.xml
+https://feeds.feedblitz.com/baeldung/linux&x=1
+
+
+"[Medium]"
+https://medium.com/feed/@RangeForce/                "~Medium RangeForce"
+https://medium.com/feed/mitre-attack                "~Medium mitre-attack"
+https://medium.com/feed/ax1al						"~Medium ax1al"
+https://medium.com/feed/@likethecoins				"~Medium @likethecoins"
+https://medium.com/feed/doublepulsar				"~Medium doublepulsar"
+https://medium.com/feed/@azer.sebei					"~Medium azer sebei"
+https://medium.com/feed/@boutnaru					"~Medium Shlomi Boutnaru"
+
+
+"[Reddit]"
+
+http://www.reddit.com/r/commandline/.rss            "~Reddit commandline"
+https://www.reddit.com/r/SocialEngineering/.rss     "~Reddit SocialEngineering"
+
+https://www.reddit.com/r/blackhat/.rss              "~Reddit blackhat"
+https://www.reddit.com/r/fulldisclosure/.rss        "~Reddit fulldisclosure"
+https://www.reddit.com/r/craftofintelligence/.rss   "~Reddit craftofintelligence"
+
+
+https://www.reddit.com/r/AskNetsec/.rss             "~Reddit AskNetsec"
+https://www.reddit.com/r/netsec/.rss                "~Reddit netsec"
+https://www.reddit.com/r/blueteamsec/.rss           "~Reddit blueteamsec"
+https://www.reddit.com/r/redteamsec/.rss            "~Reddit redteamsec"
+https://www.reddit.com/r/purpleteamsec/.rss         "~Reddit purpleteamsec"
+
+https://www.reddit.com/r/computerforensics/.rss     "~Reddit computerforensics"
+https://www.reddit.com/r/DFIRTraining/.rss          "~Reddit DFIRTraining"
+
+
+https://www.reddit.com/r/LinuxMalware/.rss          "~Reddit LinuxMalware"
+https://www.reddit.com/r/rootkit/.rss               "~Reddit rootkit"
+https://www.reddit.com/r/ReverseEngineering/.rss    "~Reddit ReverseEngineering"
+https://www.reddit.com/r/Malware/.rss               "~Reddit Malware"
+https://www.reddit.com/r/ExploitDev/.rss            "~Reddit ExploitDev"
+https://www.reddit.com/r/REGames/.rss               "~Reddit REGames"
+https://www.reddit.com/r/lowlevel/.rss              "~Reddit lowlevel"
+
+
+
+
+"[YT]"
+https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w    "~LiveOverflow"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCZDt7MuC3Hzs6IH4xODLBw    "~NahamSec"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCW6MNdOsqv2E9AjQkv9we7A    "~PwnFunction"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCkVMojdBWS-JtH7TliWkVg    "~GynvaelEN"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCa6eh7gCkpPo5XXUDfygQQA    "~IppSec"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA    "~ComputerPhile"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg    "~Low Level Learning"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMqXCTXulFWHrmd2588IqJw    "~Crow"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC41qEfQHuPEe71CQ7tYOBlw    "~x0reaxeax"
+
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaYhcUwRBNscFNUKTjgPFiA    "~Rust Videos"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCthV50MozQIfawL9a_g5rdg    "~OpenSecurityTraining2"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqVIVdF5lwb3uMhiS0XM4XQ    "~YT Blackperl"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZDyl7G-Lq-EMVO8PfDFp9g    "~YT Bug Bounty Reports Explained"
+
+"  "
+
+
+
+"query:<All Unread Articles>:unread = \"yes\""

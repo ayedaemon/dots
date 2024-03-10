@@ -1,0 +1,73 @@
+# # -- feeds ---------------------------------------------------------------------
+
+auto-reload yes
+reload-time 120
+reload-threads 4
+download-retries 4
+download-timeout 10
+prepopulate-query-feeds yes
+max-items 50
+
+
+feedlist-format "%?l? %10u %t %4S & %t ?"
+articlelist-format "%D [%T] %t"
+
+
+
+highlight feedlist "\\[Twitter\\]"             color99   default  bold
+highlight feedlist "\\[Medium\\]"             color99   default  bold
+highlight feedlist "\\[Reddit\\]"             color99   default  bold
+highlight feedlist "\\[YT\\]"             color99   default  bold
+highlight feedlist "\\[Others\\]"             color99   default  bold
+
+
+
+
+# # -- display -------------------------------------------------------------------
+
+# show-read-feeds yes
+# feed-sort-order unreadarticlecount-asc
+
+color background         default   default
+color listnormal         default   default
+color listnormal_unread  yellow    default
+color listfocus          green     default
+color listfocus_unread   red       black
+color info               default   black
+color article            default   default
+
+
+text-width 120
+
+
+# # -- navigation ----------------------------------------------------------------
+
+# goto-next-feed no
+
+## unbind keys
+unbind-key j
+unbind-key k
+unbind-key J
+unbind-key K
+
+## bind navigation keys - vim style
+bind-key j down
+bind-key k up
+bind-key l open
+bind-key h quit
+
+
+
+
+
+# # -- misc ----------------------------------------------------------------------
+
+confirm-exit no
+cleanup-on-quit no
+browser "/usr/bin/librewolf %u 2>/dev/null &"
+
+
+# # -- macros --------------------------------------------------------------------
+
+# macro m set browser "mpv %u" ; open-in-browser-and-mark-read ; set browser "elinks %u"
+# macro t set browser "transmission-remote -a %u" ; open-in-browser-and-mark-read ; set browser "elinks %u"

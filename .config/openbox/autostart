@@ -1,0 +1,39 @@
+
+# Kill all if running already
+killall -9 xfsettingsd picom polybar mpd dunst ksuperkey xfce-power-manager
+
+
+# xfce4-settings daemon
+xfsettingsd &
+
+
+# Polkit agent
+if [[ ! `pidof xfce-polkit` ]] then
+	/usr/lib/xfce-polkit/xfce-polkit &
+fi
+
+
+# Wallpaper
+nitrogen --restore
+
+
+# Enable power management
+xfce4-power-manager &
+
+
+# Compositor
+exec picom &
+
+
+
+# Polybar
+polybar -c ~/.config/polybar/config.ini
+
+
+# Notification daemon
+exec dunst &
+
+
+# Thunar daemon
+exec thunar --daemon &
+
