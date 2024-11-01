@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <title>Newsboat - Exported Feeds</title>
+  </head>
+  <body>
+    <outline type="rss" xmlUrl="[Others]" htmlUrl="" title="" text="" category=""/>
+    <outline type="rss" xmlUrl="https://lwn.net/headlines/rss" htmlUrl="https://lwn.net/" title="lwn headlines" text="lwn headlines" category=""/>
+    <outline type="rss" xmlUrl="https://www.eff.org/rss/updates.xml" htmlUrl="https://www.eff.org/rss/updates.xml" title="EFF" text="EFF" category=""/>
+    <outline type="rss" xmlUrl="https://www.theregister.com/headlines.atom" htmlUrl="https://www.theregister.com/" title="The Register" text="The Register" category=""/>
+    <outline type="rss" xmlUrl="https://www.technologyreview.com/feed" htmlUrl="https://www.technologyreview.com/" title="MIT Technology Review" text="MIT Technology Review" category=""/>
+    <outline type="rss" xmlUrl="http://rss.slashdot.org/slashdot/eqWf" htmlUrl="https://hardware.slashdot.org/" title="SlashDot" text="SlashDot" category=""/>
+    <outline type="rss" xmlUrl="https://www.linuxfoundation.org/blog/rss.xml" htmlUrl="https://www.linuxfoundation.org/blog" title="Linux Foundation" text="Linux Foundation" category=""/>
+    <outline type="rss" xmlUrl="https://portswigger.net/research/rss" htmlUrl="https://portswigger.net/research" title="portswigger research" text="portswigger research" category=""/>
+    <outline type="rss" xmlUrl="https://www.cloudvulndb.org/rss/feed.xml" htmlUrl="https://www.cloudvulndb.org/" title="cloudvulndb.org" text="cloudvulndb.org" category=""/>
+    <outline type="rss" xmlUrl="https://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/" title="BleepingComputer" text="BleepingComputer" category=""/>
+    <outline type="rss" xmlUrl="https://nixintel.info/feed/" htmlUrl="https://nixintel.info/" title="nixintel" text="nixintel" category=""/>
+    <outline type="rss" xmlUrl="https://dfirdiva.com/feed" htmlUrl="https://dfirdiva.com/" title="dfirdiva" text="dfirdiva" category=""/>
+    <outline type="rss" xmlUrl="https://jvns.ca/atom.xml" htmlUrl="https://jvns.ca/atom.xml" title="julia evans blog" text="julia evans blog" category=""/>
+    <outline type="rss" xmlUrl="https://www.guitmz.com/index.xml" htmlUrl="https://www.guitmz.com/" title="guitmz's blog" text="guitmz's blog" category=""/>
+    <outline type="rss" xmlUrl="https://xcellerator.github.io/index.xml" htmlUrl="https://xcellerator.github.io/" title="TheXcellerator" text="TheXcellerator" category=""/>
+    <outline type="rss" xmlUrl="https://s3n4t0roffsec13.blogspot.com/feeds/posts/default" htmlUrl="https://s3n4t0roffsec13.blogspot.com/" title="s3n4t0roffsec13" text="s3n4t0roffsec13" category=""/>
+    <outline type="rss" xmlUrl="https://www.n00py.io/feed" htmlUrl="https://www.n00py.io/" title="n00py blog" text="n00py blog" category=""/>
+    <outline type="rss" xmlUrl="https://www.travismathison.com/feed.xml" htmlUrl="https://tdmathison.github.io/" title="travis mathison" text="travis mathison" category=""/>
+    <outline type="rss" xmlUrl="https://yurichev.com/blog/rss.xml" htmlUrl="https://yurichev.com/n/" title="Dennis Yurichev's blog" text="Dennis Yurichev's blog" category=""/>
+    <outline type="rss" xmlUrl="https://0x00sec.org/latest.rss" htmlUrl="https://0x00sec.org/latest" title="0x00sec (latest)" text="0x00sec (latest)" category=""/>
+    <outline type="rss" xmlUrl="https://cybergeeks.tech/feed/" htmlUrl="https://cybergeeks.tech/" title="cyber geeks" text="cyber geeks" category=""/>
+    <outline type="rss" xmlUrl="http://jbremer.org/feed/" htmlUrl="http://jbremer.org/" title="Jurriaan Bremer @skier_t" text="Jurriaan Bremer @skier_t" category=""/>
+    <outline type="rss" xmlUrl="https://blog.coffinsec.com/feed.xml" htmlUrl="http://0.0.0.0:4000/" title="coffin sec" text="coffin sec" category=""/>
+    <outline type="rss" xmlUrl="https://raesene.github.io/feed.xml" htmlUrl="https://raesene.github.io/" title="Raesene's Ramblings" text="Raesene's Ramblings" category=""/>
+    <outline type="rss" xmlUrl="https://blog.regehr.org/feed" htmlUrl="https://blog.regehr.org/" title="Embedded in Academia - John Regehr" text="Embedded in Academia - John Regehr" category=""/>
+    <outline type="rss" xmlUrl="https://cocomelonc.github.io/feed.xml" htmlUrl="https://cocomelonc.github.io/" title="cocomelonc" text="cocomelonc" category=""/>
+    <outline type="rss" xmlUrl="https://blog.xpnsec.com/rss.xml" htmlUrl="https://blog.xpnsec.com/" title="xpnsec blog" text="xpnsec blog" category=""/>
+    <outline type="rss" xmlUrl="https://rastamouse.me/feed" htmlUrl="https://rastamouse.me/" title="rasta mouse (Brain Farts)" text="rasta mouse (Brain Farts)" category=""/>
+    <outline type="rss" xmlUrl="https://feeds.feedburner.com/Airs-IanLanceTaylor" htmlUrl="https://www.airs.com/blog" title="Ian Lance Taylor blog" text="Ian Lance Taylor blog" category=""/>
+    <outline type="rss" xmlUrl="https://adepts.of0x.cc/feed.xml" htmlUrl="https://adepts.of0x.cc/" title="adepts.of0x.cc" text="adepts.of0x.cc" category=""/>
+    <outline type="rss" xmlUrl="https://itm4n.github.io/feed.xml" htmlUrl="https://itm4n.github.io/" title="itm4n's blog" text="itm4n's blog" category=""/>
+    <outline type="rss" xmlUrl="https://www.blackarrow.net/feed/" htmlUrl="https://www.blackarrow.net/" title="blackarrow" text="blackarrow" category=""/>
+    <outline type="rss" xmlUrl="https://rosenzweig.io/blog/gpu-feed.xml" htmlUrl="https://rosenzweig.io/" title="rosenzweig" text="rosenzweig" category=""/>
+    <outline type="rss" xmlUrl="https://dirkjanm.io/feed.xml" htmlUrl="https://dirkjanm.io/" title="dirkjanm" text="dirkjanm" category=""/>
+    <outline type="rss" xmlUrl="https://blog.harmj0y.net/feed" htmlUrl="https://blog.harmj0y.net/" title="harmj0y" text="harmj0y" category=""/>
+    <outline type="rss" xmlUrl="https://blog.ret2.io/feed.xml" htmlUrl="https://blog.ret2.io/" title="ret2" text="ret2" category=""/>
+    <outline type="rss" xmlUrl="https://doar-e.github.io/feeds/rss.xml" htmlUrl="https://doar-e.github.io/" title="doar-e" text="doar-e" category=""/>
+    <outline type="rss" xmlUrl="https://secret.club/feed.xml" htmlUrl="https://secret.club/" title="secret.club" text="secret.club" category=""/>
+    <outline type="rss" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="https://googleprojectzero.blogspot.com/" title="googleprojectzero" text="googleprojectzero" category=""/>
+    <outline type="rss" xmlUrl="https://srcincite.io/feed.xml" htmlUrl="https://srcincite.io/" title="srcincite" text="srcincite" category=""/>
+    <outline type="rss" xmlUrl="https://phoenhex.re/feed.xml" htmlUrl="https://phoenhex.re/" title="phoenhex" text="phoenhex" category=""/>
+    <outline type="rss" xmlUrl="https://www.msreverseengineering.com/blog?format=rss" htmlUrl="https://www.msreverseengineering.com/blog/" title="msreverseengineering" text="msreverseengineering" category=""/>
+    <outline type="rss" xmlUrl="https://reverse.put.as/index.xml" htmlUrl="https://reverse.put.as/" title="reverse.put.as" text="reverse.put.as" category=""/>
+    <outline type="rss" xmlUrl="https://blog.vwzq.net/posts/index.xml" htmlUrl="https://blog.vwzq.net/posts/" title="Servator" text="Servator" category=""/>
+    <outline type="rss" xmlUrl="https://www.agarri.fr/blog/rss.xml" htmlUrl="https://www.agarri.fr/blog" title="agarri" text="agarri" category=""/>
+    <outline type="rss" xmlUrl="https://pbx.sh/feed.xml" htmlUrl="https://pbx.sh/" title="pbx.sh/" text="pbx.sh/" category=""/>
+    <outline type="rss" xmlUrl="https://www.tiraniddo.dev/feeds/posts/default?alt=rss" htmlUrl="https://www.tiraniddo.dev/" title="tiraniddo" text="tiraniddo" category=""/>
+    <outline type="rss" xmlUrl="https://shells.systems/feed/" htmlUrl="https://shells.systems/" title="shells.systems" text="shells.systems" category=""/>
+    <outline type="rss" xmlUrl="https://posts.specterops.io/feed" htmlUrl="https://posts.specterops.io/?source=rss----f05f8696e3cc---4" title="specterops" text="specterops" category=""/>
+    <outline type="rss" xmlUrl="https://windows-internals.com/feed/" htmlUrl="https://windows-internals.com/" title="windows-internals" text="windows-internals" category=""/>
+    <outline type="rss" xmlUrl="https://voidsec.com/feed/" htmlUrl="https://voidsec.com/" title="voidsec" text="voidsec" category=""/>
+    <outline type="rss" xmlUrl="https://talawah.io/feed.rss" htmlUrl="https://talawah.io/blog/" title="talawah" text="talawah" category=""/>
+    <outline type="rss" xmlUrl="https://thume.ca/atom.xml" htmlUrl="https://thume.ca/atom.xml" title="thume.ca" text="thume.ca" category=""/>
+    <outline type="rss" xmlUrl="https://www.mdsec.co.uk/feed/" htmlUrl="https://www.mdsec.co.uk/" title="mdsec" text="mdsec" category=""/>
+    <outline type="rss" xmlUrl="https://connormcgarr.github.io/feed.xml" htmlUrl="https://connormcgarr.github.io/" title="connormcgarr" text="connormcgarr" category=""/>
+    <outline type="rss" xmlUrl="https://mrt4ntr4.github.io/feed.xml" htmlUrl="https://mrt4ntr4.github.io/feed.xml" title="mrt4ntr4" text="mrt4ntr4" category=""/>
+    <outline type="rss" xmlUrl="https://tenthousandmeters.com/feeds/all.atom.xml" htmlUrl="https://tenthousandmeters.com/" title="tenthousandmeters" text="tenthousandmeters" category=""/>
+    <outline type="rss" xmlUrl="https://a13xp0p0v.github.io/feed.xml" htmlUrl="https://a13xp0p0v.github.io/" title="a13xp0p0v" text="a13xp0p0v" category=""/>
+    <outline type="rss" xmlUrl="https://dolosgroup.io/blog?format=rss" htmlUrl="https://dolosgroup.io/blog/" title="dolosgroup" text="dolosgroup" category=""/>
+    <outline type="rss" xmlUrl="https://www.pentestpartners.com/feed/" htmlUrl="https://www.pentestpartners.com/" title="pentestpartners" text="pentestpartners" category=""/>
+    <outline type="rss" xmlUrl="https://codeinsecurity.wordpress.com/feed/" htmlUrl="https://codeinsecurity.wordpress.com/" title="codeinsecurity" text="codeinsecurity" category=""/>
+    <outline type="rss" xmlUrl="https://pentestlab.blog/feed/" htmlUrl="https://pentestlab.blog/" title="pentestlab" text="pentestlab" category=""/>
+    <outline type="rss" xmlUrl="https://ethicalchaos.dev/feed/" htmlUrl="https://ethicalchaos.dev/" title="Ethical Chaos" text="Ethical Chaos" category=""/>
+    <outline type="rss" xmlUrl="https://exploit.ph/feeds/rss.xml" htmlUrl="https://exploit.ph/" title="exploit.ph" text="exploit.ph" category=""/>
+    <outline type="rss" xmlUrl="https://dustri.org/b/rss.xml" htmlUrl="https://dustri.org/b/" title="dustri.org" text="dustri.org" category=""/>
+    <outline type="rss" xmlUrl="https://blog.trailofbits.com/feed/" htmlUrl="https://blog.trailofbits.com/" title="trailofbits" text="trailofbits" category=""/>
+    <outline type="rss" xmlUrl="https://blog.willemmelching.nl/feed.xml" htmlUrl="https://blog.willemmelching.nl/" title="Willem Melching" text="Willem Melching" category=""/>
+    <outline type="rss" xmlUrl="https://0x434b.dev/rss/" htmlUrl="https://0x434b.dev/" title="Low-level adventures" text="Low-level adventures" category=""/>
+    <outline type="rss" xmlUrl="https://www.zerodayinitiative.com/blog/?format=rss" htmlUrl="https://www.thezdi.com/blog/" title="zero day initiative" text="zero day initiative" category=""/>
+    <outline type="rss" xmlUrl="https://pwning.systems/index.xml" htmlUrl="https://pwning.systems/" title="pwning.systems" text="pwning.systems" category=""/>
+    <outline type="rss" xmlUrl="https://www.trustedsec.com/feed/" htmlUrl="https://trustedsec.com/" title="trustedsec" text="trustedsec" category=""/>
+    <outline type="rss" xmlUrl="https://cyber.wtf/feed/" htmlUrl="https://cyber.wtf/" title="cyber.wtf" text="cyber.wtf" category=""/>
+    <outline type="rss" xmlUrl="https://blog.svenpeter.dev/index.xml" htmlUrl="https://blog.svenpeter.dev/" title="svenpeter" text="svenpeter" category=""/>
+    <outline type="rss" xmlUrl="https://byt3bl33d3r.substack.com/feed" htmlUrl="https://byt3bl33d3r.substack.com/" title="byt3bl33d3r" text="byt3bl33d3r" category=""/>
+    <outline type="rss" xmlUrl="https://research.swtch.com/feed.atom" htmlUrl="https://research.swtch.com/feed.atom" title="research!rsc" text="research!rsc" category=""/>
+    <outline type="rss" xmlUrl="https://randomascii.wordpress.com/feed/" htmlUrl="https://randomascii.wordpress.com/" title="tech blog of Bruce Dawson" text="tech blog of Bruce Dawson" category=""/>
+    <outline type="rss" xmlUrl="https://antonioparata.blogspot.com/feeds/posts/default" htmlUrl="https://antonioparata.blogspot.com/" title="Secure coding and more" text="Secure coding and more" category=""/>
+    <outline type="rss" xmlUrl="https://n1ght-w0lf.github.io/feed.xml" htmlUrl="https://n1ght-w0lf.github.io/" title="nightw0lf's blog" text="nightw0lf's blog" category=""/>
+    <outline type="rss" xmlUrl="https://0x434b.dev/rss/" htmlUrl="https://0x434b.dev/" title="Low-level adventures" text="Low-level adventures" category=""/>
+    <outline type="rss" xmlUrl="https://lkmidas.github.io/index.xml" htmlUrl="https://lkmidas.github.io/" title="Midas Blog" text="Midas Blog" category=""/>
+    <outline type="rss" xmlUrl="https://feeds.feedblitz.com/baeldung/linux&amp;x=1" htmlUrl="https://www.baeldung.com/linux" title="Baeldung - Linux" text="Baeldung - Linux" category=""/>
+    <outline type="rss" xmlUrl="[Medium]" htmlUrl="" title="" text="" category=""/>
+    <outline type="rss" xmlUrl="https://medium.com/feed/@RangeForce/" htmlUrl="https://medium.com/@RangeForce?source=rss-3a937c2fae68------2" title="Medium RangeForce" text="Medium RangeForce" category=""/>
+    <outline type="rss" xmlUrl="https://medium.com/feed/mitre-attack" htmlUrl="https://medium.com/mitre-attack?source=rss----6da19bd08fba---4" title="Medium mitre-attack" text="Medium mitre-attack" category=""/>
+    <outline type="rss" xmlUrl="https://medium.com/feed/ax1al" htmlUrl="https://medium.com/ax1al?source=rss----44b00b7c4036---4" title="Medium ax1al" text="Medium ax1al" category=""/>
+    <outline type="rss" xmlUrl="https://medium.com/feed/@likethecoins" htmlUrl="https://medium.com/@likethecoins?source=rss-46ad74282e4c------2" title="Medium @likethecoins" text="Medium @likethecoins" category=""/>
+    <outline type="rss" xmlUrl="https://medium.com/feed/doublepulsar" htmlUrl="https://doublepulsar.com/?source=rss----8343faddf0ec---4" title="Medium doublepulsar" text="Medium doublepulsar" category=""/>
+    <outline type="rss" xmlUrl="https://medium.com/feed/@azer.sebei" htmlUrl="https://medium.com/@azer.sebei?source=rss-88588a343b03------2" title="Medium azer sebei" text="Medium azer sebei" category=""/>
+    <outline type="rss" xmlUrl="https://medium.com/feed/@boutnaru" htmlUrl="https://medium.com/@boutnaru?source=rss-e7d184dfba5b------2" title="Medium Shlomi Boutnaru" text="Medium Shlomi Boutnaru" category=""/>
+    <outline type="rss" xmlUrl="[Reddit]" htmlUrl="" title="" text="" category=""/>
+    <outline type="rss" xmlUrl="http://www.reddit.com/r/commandline/.rss" htmlUrl="https://www.reddit.com/r/commandline/" title="Reddit commandline" text="Reddit commandline" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/SocialEngineering/.rss" htmlUrl="https://www.reddit.com/r/SocialEngineering/" title="Reddit SocialEngineering" text="Reddit SocialEngineering" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/blackhat/.rss" htmlUrl="https://www.reddit.com/r/blackhat/" title="Reddit blackhat" text="Reddit blackhat" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/fulldisclosure/.rss" htmlUrl="https://www.reddit.com/r/fulldisclosure/" title="Reddit fulldisclosure" text="Reddit fulldisclosure" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/craftofintelligence/.rss" htmlUrl="https://www.reddit.com/r/craftofintelligence/" title="Reddit craftofintelligence" text="Reddit craftofintelligence" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/AskNetsec/.rss" htmlUrl="https://www.reddit.com/r/AskNetsec/" title="Reddit AskNetsec" text="Reddit AskNetsec" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/" title="Reddit netsec" text="Reddit netsec" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/blueteamsec/.rss" htmlUrl="https://www.reddit.com/r/blueteamsec/" title="Reddit blueteamsec" text="Reddit blueteamsec" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/redteamsec/.rss" htmlUrl="https://www.reddit.com/r/redteamsec/" title="Reddit redteamsec" text="Reddit redteamsec" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/purpleteamsec/.rss" htmlUrl="https://www.reddit.com/r/purpleteamsec/" title="Reddit purpleteamsec" text="Reddit purpleteamsec" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/computerforensics/.rss" htmlUrl="https://www.reddit.com/r/computerforensics/" title="Reddit computerforensics" text="Reddit computerforensics" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/DFIRTraining/.rss" htmlUrl="https://www.reddit.com/r/DFIRTraining/" title="Reddit DFIRTraining" text="Reddit DFIRTraining" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/LinuxMalware/.rss" htmlUrl="https://www.reddit.com/r/LinuxMalware/" title="Reddit LinuxMalware" text="Reddit LinuxMalware" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/rootkit/.rss" htmlUrl="https://www.reddit.com/r/rootkit/" title="Reddit rootkit" text="Reddit rootkit" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/ReverseEngineering/.rss" htmlUrl="https://www.reddit.com/r/ReverseEngineering/" title="Reddit ReverseEngineering" text="Reddit ReverseEngineering" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/Malware/.rss" htmlUrl="https://www.reddit.com/r/Malware/" title="Reddit Malware" text="Reddit Malware" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/ExploitDev/.rss" htmlUrl="https://www.reddit.com/r/ExploitDev/" title="Reddit ExploitDev" text="Reddit ExploitDev" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/REGames/.rss" htmlUrl="https://www.reddit.com/r/REGames/" title="Reddit REGames" text="Reddit REGames" category=""/>
+    <outline type="rss" xmlUrl="https://www.reddit.com/r/lowlevel/.rss" htmlUrl="https://www.reddit.com/r/lowlevel/" title="Reddit lowlevel" text="Reddit lowlevel" category=""/>
+    <outline type="rss" xmlUrl="[YT]" htmlUrl="" title="" text="" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w" htmlUrl="https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w" title="LiveOverflow" text="LiveOverflow" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCZDt7MuC3Hzs6IH4xODLBw" htmlUrl="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw" title="NahamSec" text="NahamSec" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCW6MNdOsqv2E9AjQkv9we7A" htmlUrl="https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A" title="PwnFunction" text="PwnFunction" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCkVMojdBWS-JtH7TliWkVg" htmlUrl="https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg" title="GynvaelEN" text="GynvaelEN" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCa6eh7gCkpPo5XXUDfygQQA" htmlUrl="https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA" title="IppSec" text="IppSec" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" htmlUrl="https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA" title="ComputerPhile" text="ComputerPhile" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6biysICWOJ-C3P4Tyeggzg" htmlUrl="https://www.youtube.com/channel/UC6biysICWOJ-C3P4Tyeggzg" title="Low Level Learning" text="Low Level Learning" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCMqXCTXulFWHrmd2588IqJw" htmlUrl="https://www.youtube.com/channel/UCMqXCTXulFWHrmd2588IqJw" title="Crow" text="Crow" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC41qEfQHuPEe71CQ7tYOBlw" htmlUrl="https://www.youtube.com/channel/UC41qEfQHuPEe71CQ7tYOBlw" title="x0reaxeax" text="x0reaxeax" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCaYhcUwRBNscFNUKTjgPFiA" htmlUrl="https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA" title="Rust Videos" text="Rust Videos" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCthV50MozQIfawL9a_g5rdg" htmlUrl="https://www.youtube.com/channel/UCthV50MozQIfawL9a_g5rdg" title="OpenSecurityTraining2" text="OpenSecurityTraining2" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqVIVdF5lwb3uMhiS0XM4XQ" htmlUrl="https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ" title="YT Blackperl" text="YT Blackperl" category=""/>
+    <outline type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCZDyl7G-Lq-EMVO8PfDFp9g" htmlUrl="https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g" title="YT Bug Bounty Reports Explained" text="YT Bug Bounty Reports Explained" category=""/>
+    <outline type="rss" xmlUrl="  " htmlUrl="" title="" text="" category=""/>
+  </body>
+</opml>
